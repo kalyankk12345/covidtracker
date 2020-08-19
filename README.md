@@ -1,3 +1,3 @@
-#COVID TRACKER
+#COVIDTRACKER
 
-<img src="https://postimg.cc/ykVHNYrR">
+<img src="https://i.postimg.cc/HsMsBrw6/dashbard.jpg">
